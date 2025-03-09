@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CrudMvc.Web.props" />
+</Project>
